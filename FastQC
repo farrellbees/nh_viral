@@ -1,0 +1,3 @@
+###Quality Control of Illumina sequences conducted in FastQC. 
+
+fastqc --extract filename1.fastq.gz 
